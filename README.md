@@ -2,4 +2,4 @@
 
 ### Instructions
 - has continuous deploy in netlify
-- no dependencies, just run index.html in live server
+- no dependencies, just open index.html
